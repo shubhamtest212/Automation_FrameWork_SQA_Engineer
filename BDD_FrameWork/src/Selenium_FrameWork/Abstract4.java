@@ -19,5 +19,9 @@ public class Abstract4 extends Abstract3 {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void f() {
+		System.out.println("King");
+	}
 
 }
