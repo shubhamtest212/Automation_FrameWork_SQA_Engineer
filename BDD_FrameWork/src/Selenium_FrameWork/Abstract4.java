@@ -14,24 +14,12 @@ public class Abstract4 extends Abstract3 {
 
 	}
 
-	@Override
-	public void c() {
-		System.out.println("Hello c");
-
-	}
+	
 
 	@Override
-	public void d() {
-		System.out.println("Hello d");
-
-	}
-
-	public static void main(String[] args) {
-		Abstract4 ab4 = new Abstract4();
-		ab4.a();
-		ab4.b();
-		ab4.c();
-		ab4.d();
+	public void e() {
+		// TODO Auto-generated method stub
+		
 	}
 
 }
