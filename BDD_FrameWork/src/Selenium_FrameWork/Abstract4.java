@@ -14,12 +14,10 @@ public class Abstract4 extends Abstract3 {
 
 	}
 
-	
-
 	@Override
 	public void e() {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 }
